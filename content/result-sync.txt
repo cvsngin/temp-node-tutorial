@@ -1,0 +1,2 @@
+Here is the result text and additional text: 
+      Hello this is first file - Hello this is second file - {flag : 'a'}

@@ -1,0 +1,21 @@
+app.js genel config dosyası 
+Global degişkenler kullanılıyor 
+require is a function to use modules
+module has the info about current module
+process has the info about env where the program is being exevuted
+
+
+BUILT-IN modules
+-OS
+-PATH
+-FS
+-HTTP
+
+
+npm init -y   komutu ile default packagejson file oluşturdu
+
+npm i lodash  komutu ile  
+lodash package ı kurdu utility library dedi 
+
+
+all the dependencies are stored under ' node_modules'
